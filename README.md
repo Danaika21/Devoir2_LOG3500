@@ -17,3 +17,4 @@ Ce projet consiste en une application web interactive permettant de rechercher d
 2. Ouvrez le dossier dans **Visual Studio Code**.
 3. Lancez le projet avec l'extension **Live Server** en faisant un clic droit sur `index.html` puis `Open with Live Server`.
 4. L'application s'ouvrira localement à l'adresse suivante : `http://127.0.0.1:5500/index.html`.
+5. Remis par Danaika
